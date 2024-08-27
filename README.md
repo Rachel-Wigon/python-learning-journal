@@ -7,4 +7,4 @@ A repository to document my Python learning journey
 # Goals 
   My goal is to have fun and try to learn the basics of python. Another goal is to see if I have a unlearned passion for coding.
  
- Print("Hello World")
+ print("Hello World")
